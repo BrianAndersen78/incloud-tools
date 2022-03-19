@@ -1,0 +1,5 @@
+1.0.8
+    - Bugfix on beta chanel
+1.0.7
+    - Pingserver implemented
+    - BETA

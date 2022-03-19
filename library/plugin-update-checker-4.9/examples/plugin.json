@@ -1,0 +1,36 @@
+{
+	"name": "InCloud Tools",
+	"version": "1.0.1",
+	"download_url": "https://tools.incloud.dk/plugin/incloud.1.0.1.zip",
+
+	"homepage": "https://incloud.dk/",
+	"requires": "4.5",
+	"tested": "5.4.1",
+	"last_updated": "2020-05-09 11:00:00",
+	"upgrade_notice": "En masse nye dejlige funktioner",
+
+	"author": "Brian Andersen",
+	"author_homepage": "http://incloud.dk/",
+
+	"sections": {
+		"description": "<p>Værktøjer til at forbedre oplevensen på InCloud hosting</p><p><strong>Bemærk: Selv om at denne side skriver at plugin'et kun er testet op til en bestemt version af WordPress, betyder det ikke at det ikke vil virke på højere versioner. Det betyder kun at jeg ikke har udgivet en version siden. Jeg har selv plugin'et kørende på 20-30 sider jeg administrere, og vil opdatere det øjeblikkeligt, hvis der skulle opstå fejl i det.</strong></p>",
+		"installation": "Download og installer som sædvanligt",
+		"changelog": "Se incloud.dk"
+	},
+	
+	"icons" : {
+		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
+		"2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+    },
+
+	"banners": {
+		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+	},
+
+	"rating": 100,
+	"num_ratings": 18,
+
+	"downloaded": 234,
+	"active_installs": 234
+}
